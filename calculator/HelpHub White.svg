@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <rect x="0" y="0" width="20" height="20" style="fill:rgb(191,191,191);"/>
+        <g transform="matrix(1,0,0,1,20,20)">
+            <rect x="0" y="0" width="20" height="20" style="fill:rgb(191,191,191);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,20,0)">
+            <rect x="0" y="0" width="20" height="20" style="fill:rgb(141,141,141);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.10543e-15,20)">
+            <rect x="0" y="0" width="20" height="20" style="fill:rgb(141,141,141);"/>
+        </g>
+    </g>
+    <g id="Layer1">
+        <g transform="matrix(1,0,0,1,21,20)">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(141,141,141);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,21,24)">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(141,141,141);"/>
+        </g>
+    </g>
+    <g id="Layer11" serif:id="Layer1" transform="matrix(1,0,0,1,-30,-30)">
+        <g transform="matrix(0.707107,0.707107,-0.707107,0.707107,39.2929,27.9792)">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(141,141,141);"/>
+        </g>
+        <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,27.9792,40.7071)">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(141,141,141);"/>
+        </g>
+    </g>
+    <g id="Layer12" serif:id="Layer1" transform="matrix(1,0,0,1,-31,-14)">
+        <g transform="matrix(0,1,-1,0,49,35)">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(191,191,191);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,32,36)">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(191,191,191);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,21,2)">
+        <g id="Layer2">
+            <rect x="4" y="7" width="10" height="2" style="fill:rgb(191,191,191);"/>
+        </g>
+    </g>
+</svg>
