@@ -15,7 +15,9 @@ p{
 	font-family: 'Open Sans', sans-serif;
 	margin: 20px;
 }
-
+.hide {
+	display:none;
+}
 body{
 	font-family: 'Roboto', sans-serif;
 }
@@ -87,7 +89,7 @@ i {
 	height: 100%;
 	top: 0px;
 	left: 0px;
-	transition-duration:0s;
+	transition-duration:0.6s;
 	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
 	background-color: #fff;
 	border-top-left-radius: 15px;
