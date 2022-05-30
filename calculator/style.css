@@ -15,7 +15,9 @@ p{
 	font-family: 'Open Sans', sans-serif;
 	margin: 20px;
 }
-
+.hide {
+	display:none;
+}
 body{
 	font-family: 'Roboto', sans-serif;
 }

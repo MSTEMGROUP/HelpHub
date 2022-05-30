@@ -1,3 +1,22 @@
+function showPage(page){
+	if (page==="home"){
+		$("#settings").hide();
+		$("#phonebook").hide();
+		$("#home").show();
+	} else if (page==="phonebook"){
+		$("#settings").hide();
+		$("#home").hide();
+		$("#phonebook").show();
+	} else {
+		
+		$("#home").hide();
+		$("#phonebook").hide();
+		$("#settings").show();
+	}
+	
+}
+
+
 // ---------Responsive-navbar-active-animation-----------
 function test(){
 	var tabsNewAnim = $('#navbarSupportedContent');
@@ -76,3 +95,4 @@ jQuery(document).ready(function($){
 //         }
 //     })
 // });
+
