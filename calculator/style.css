@@ -12,7 +12,8 @@ h2{
 }
 
 p{
-	font-family: 'Open Sans', sans-serif
+	font-family: 'Open Sans', sans-serif;
+	margin: 20px;
 }
 
 body{
